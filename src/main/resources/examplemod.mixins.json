@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "sunsetsatellite.examplemod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "SessionMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
